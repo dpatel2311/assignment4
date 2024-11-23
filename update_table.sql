@@ -1,0 +1,2 @@
+ALTER TABLE assignment4
+ADD Grade VARCHAR(255);
