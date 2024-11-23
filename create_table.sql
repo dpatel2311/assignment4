@@ -1,0 +1,5 @@
+CREATE TABLE assignment4 (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255),
+	  Subject VARCHAR(255)
+);
